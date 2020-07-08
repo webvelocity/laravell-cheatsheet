@@ -1,2 +1,7 @@
-  //Escape string in Laravell
+//Escape string in Laravell
    {!! $variable !!} 
+
+//Check if variable is empty
+
+   @if(!empty($variable))
+   @endif
