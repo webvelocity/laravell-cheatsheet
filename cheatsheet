@@ -1,0 +1,2 @@
+  //Escape string in Laravell
+   {!! $variable !!} 
